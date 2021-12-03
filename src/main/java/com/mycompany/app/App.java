@@ -9,8 +9,8 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-	System.out.println( "This is Karthik" );
-	System.out.println( "Runnig on Jenkins" );
+	System.out.println( "Updated App.java for Jenkins!" );
+	
 	
     }
 }
